@@ -1,0 +1,11 @@
+{
+  "name": "comments",
+  "version": "1.0.0",
+  "description": "A simple app to write and view comments",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "author": "Matt Outen",
+  "license": "ISC"
+}
